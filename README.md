@@ -1,4 +1,3 @@
-# javamaks.github.io
 <!DOCTYPE html>
  <html lang="ru">
  <meta charset="utf-8">
@@ -70,6 +69,6 @@
 
  </body>
  <footer> </footer>
-<div id="footer">&#128386; Жавохир Абдуманнонов.Сайт создан школьником </div>
+<div id="footer">&#128386; Жавохир Абдуманнонов.Сайт создан на чистом энтузиазме </div>
 
  </html>

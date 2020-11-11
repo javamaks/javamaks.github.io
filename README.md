@@ -1,4 +1,3 @@
-<!DOCTYPE html>
  <html lang="ru">
  <meta charset="utf-8">
  <head>
@@ -33,7 +32,7 @@
  </head>
  <body>
      
-     <img src="https://duckduckgo.com/i/808d020b.png"width="50" height="60"align="left"> 
+     
    		  <ul >
    		 	   <li><a href="">Главная</a></li>
    		     <li><a href="">Новости</a></li>

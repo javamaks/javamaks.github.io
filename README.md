@@ -1,1 +1,1 @@
-# javamaks.uz
+# javamaks.github.com
